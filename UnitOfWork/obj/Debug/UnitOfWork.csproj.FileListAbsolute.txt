@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.dll
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.dll
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache

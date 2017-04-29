@@ -1,0 +1,5 @@
+C:\Users\thewh\Desktop\UnitOfWork\UnitOfWork.Model\bin\Debug\UnitOfWork.Model.dll
+C:\Users\thewh\Desktop\UnitOfWork\UnitOfWork.Model\bin\Debug\UnitOfWork.Model.pdb
+C:\Users\thewh\Desktop\UnitOfWork\UnitOfWork.Model\obj\Debug\UnitOfWork.Model.csprojResolveAssemblyReference.cache
+C:\Users\thewh\Desktop\UnitOfWork\UnitOfWork.Model\obj\Debug\UnitOfWork.Model.dll
+C:\Users\thewh\Desktop\UnitOfWork\UnitOfWork.Model\obj\Debug\UnitOfWork.Model.pdb
